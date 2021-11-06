@@ -1,0 +1,16 @@
+{
+  "name": "auth-tdd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SnzDev/auth-tdd.git",
+  "author": "Thálisson Sinézio <tms.working@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.7.1",
+    "sequelize": "^6.9.0"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.3.0"
+  }
+}
