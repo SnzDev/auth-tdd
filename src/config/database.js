@@ -4,7 +4,6 @@ module.exports = {
   password: 'pg',
   database: 'auth-tdd',
   dialect: 'postgres',
-  operatorsAliases: false,
   logging: false,
   define: {
     timestamps: true,
